@@ -7,7 +7,7 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
-#hover:hover {
+.hover:hover {
     text-decoration: underline;
     color: rgba(0, 0, 0, 1);
 }
